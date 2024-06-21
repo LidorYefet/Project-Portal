@@ -1,0 +1,15 @@
+topic = ['Gaming and science fiction','documents and text','Family and relationship','Leisure and culture','criminal and emergency',
+          'Gaming and science fiction','housework','market','Software','Gaming and science fiction','school and academia','Gaming and science fiction',
+          'social','school and academia','market','market','Health and sport','Software','criminal and emergency','Gaming and science fiction',
+          'Software','Support for the disabled','market','Nature , navigation and driving','Leisure and culture','school and academia'
+          ,'Support for the disabled','Family and relationship','criminal and emergency','Nature , navigation and driving','Gaming and science fiction'
+          ,'Health and sport','Nature , navigation and driving','documents and text','hardware','Gaming and science fiction' ,'Leisure and culture','communication'
+          ,'Software','Gaming and science fiction','Leisure and culture','Software','Design','Nature , navigation and driving','medicine'
+          ,'Gaming and science fiction','Nature , navigation and driving','market','Gaming and science fiction','Design','Leisure and culture','Gaming and science fiction'
+          ,'Gaming and science fiction','Gaming and science fiction','math','math','Support for the disabled','criminal and emergency','Nature , navigation and driving','Leisure and culture',
+          'medicine','Gaming and science fiction' ,'Nature , navigation and driving','laws','Design','Software','Gaming and science fiction'
+          ,'Support for the disabled','Gaming and science fiction','market','medicine','school and academia','medicine' ,'criminal and emergency','social' ,'Support for the disabled'
+          ,'laws' ,'Nature , navigation and driving','social','laws','school and academia','Family and relationship','Leisure and culture','Gaming and science fiction'
+          ,'medicine'  ,'Nature , navigation and driving','communication','Leisure and culture','Gaming and science fiction','Gaming and science fiction','laws','Gaming and science fiction'
+          ,'documents and text','Gaming and science fiction' ,'Support for the disabled','social','Gaming and science fiction','market','market','Leisure and culture' ,'documents and text'
+          ,'social','school and academia','market','criminal and emergency','housework']
